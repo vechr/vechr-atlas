@@ -430,7 +430,7 @@ nats:
       key: "tls.key"
 
   jetstream:
-    enabled: false
+    enabled: true
 
     memStorage:
       enabled: true
